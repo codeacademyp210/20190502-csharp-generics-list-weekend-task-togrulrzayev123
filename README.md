@@ -7,14 +7,14 @@ Repository-de olan shekle uygun (TaskImage.png) dizaynda Windows Form Applicatio
 Proyekte istifade etmeli oldugunuz class-lar:
 
 User
-- Name
-- Surname
-- email
+- string Name
+- string Surname
+- string email
 
 Employee 
-- ID
-- Position
-- Salary
+- int ID
+- string Position
+- double Salary
 
 
 User class-i Employee class-inin base class-idir.
